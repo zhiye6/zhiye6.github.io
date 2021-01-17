@@ -2,7 +2,8 @@
 
 > "A dream does not become reality through magic; it takes sweat, determination, and hard work." —Colin Powell
 
-Links: [Email](<zjy@uw.edu>), [Github](https://github.com/zzhiye/zzhiye.github.io), [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
+Email: zjy@uw.edu
+Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
 ![UW Seal](assets/img/uwseal.png)
@@ -13,7 +14,7 @@ B.A. in Geography: Data Science & B.S. in Informatics
 
 Graduation Date: June 2022
 
-#### GEOG 258 Digital Geographies:
+# GEOG 258 Digital Geographies:
 * Developed hands-on skills for digital mapping and data management; integrated diverse visual, textual and quantitative data; and critically assessed the societal implications of new spatial technologies.
 *	Explored how digital technologies produce social and spatial relationships, geographic knowledge, inequality and empowerment, inclusion, exclusion, and dispossession.
 
