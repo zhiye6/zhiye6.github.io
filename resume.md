@@ -2,7 +2,7 @@
 
 > "A dream does not become reality through magic; it takes sweat, determination, and hard work." —Colin Powell
 
-Email: zjy@uw.edu
+Email: <zjy@uw.edu>
 
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
