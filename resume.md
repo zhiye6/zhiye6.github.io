@@ -8,8 +8,6 @@ Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https:/
 
 ## Education
 **University of Washington**, Seattle, WA <div align="right"> June 2022 </div>
-
-<br />
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
 
 #### INFO 430 Database Design and Management:
