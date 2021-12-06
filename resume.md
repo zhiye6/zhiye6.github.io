@@ -7,11 +7,11 @@ Email: <zjy@uw.edu>
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
-**University of Washington**, Seattle, WA                   						
+**University of Washington**, Seattle, WA <div style="text-align: right"> June 2022 </div>
+
+<br />
+
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
-
-Graduation Date: June 2022
-
 
 #### INFO 430 Database Design and Management:
 *   Developed hands-on skills for relational and entity-relationship models, programmed SQL statements for querying and modifying data, designed three-tier architectures, and utilized ACID properties.
