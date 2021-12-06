@@ -2,15 +2,14 @@
 
 > "A dream does not become reality through magic; it takes sweat, determination, and hard work." —Colin Powell
 
-Email: <zjy@uw.edu>
+Email: <zhiye.zjy@gmail.com>
 
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
-**University of Washington**, Seattle, WA <div style="text-align: right"> June 2022 </div>
+**University of Washington**, Seattle, WA <div align="right"> June 2022 </div>
 
 <br />
-
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
 
 #### INFO 430 Database Design and Management:
