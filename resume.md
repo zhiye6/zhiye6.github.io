@@ -3,12 +3,11 @@
 > "A dream does not become reality through magic; it takes sweat, determination, and hard work." —Colin Powell
 
 Email: <zhiye.zjy@gmail.com>
-
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
 <p style="text-align:left;">
-    <b>University of Washington</b>, Seattle, WA
+    Universit of Washington, Seattle, WA
     <span style="float:right;">
         June 2022
     </span>
