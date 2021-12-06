@@ -7,7 +7,12 @@ Email: <zhiye.zjy@gmail.com>
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
-**University of Washington**, Seattle, WA <div align="right"> June 2022 </div>
+<p style="text-align:left;">
+    <b>University of Washington</b>, Seattle, WA
+    <span style="float:right;">
+        June 2022
+    </span>
+</p>
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
 
 #### INFO 430 Database Design and Management:
@@ -26,8 +31,12 @@ Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https:/
 
 
 ## Work Experience
-
-**Kim Bowl Restaurant & Lounge (2012 - 2016)**
+<p style="text-align:left;">
+    <b>Kim Bowl Restaurant & Lounge</b>
+    <span style="float:right;">
+        <b>(2012 - 2016)</b>
+    </span>
+</p>
 *	Conducted demographic research to help create a new menu for my family’s Chinese restaurant to suit the palate of the ethnic composition in Longview, WA.
 *	My day-to-day tasks includes sitting customers, taking orders, bussing, cash registering, and providing exceptional customer service to ensure my customers have an enjoyable dining experience.
 
