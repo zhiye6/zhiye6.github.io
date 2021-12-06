@@ -3,16 +3,18 @@
 > "A dream does not become reality through magic; it takes sweat, determination, and hard work." —Colin Powell
 
 Email: <zhiye.zjy@gmail.com>
+
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
 <p style="text-align:left;">
-    Universit of Washington, Seattle, WA
+    University of Washington, Seattle, WA
     <span style="float:right;">
         June 2022
     </span>
-</p>
+
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
+</p>
 
 #### INFO 430 Database Design and Management:
 *   Developed hands-on skills for relational and entity-relationship models, programmed SQL statements for querying and modifying data, designed three-tier architectures, and utilized ACID properties.
@@ -39,9 +41,7 @@ Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https:/
 *	Conducted demographic research to help create a new menu for my family’s Chinese restaurant to suit the palate of the ethnic composition in Longview, WA.
 *	My day-to-day tasks includes sitting customers, taking orders, bussing, cash registering, and providing exceptional customer service to ensure my customers have an enjoyable dining experience.
 
-
 ## Projects
-
 #### Healthcare Database
 *	Led a team of 4 to design and develop a Healthcare Database that allows users to store and query information regarding the hospital, staff, appointments, etc. Wrote DDL and DML statements to build and test with synthetic transactions (hundreds of thousands) to ensure the capabilities of the database.
 
