@@ -7,14 +7,8 @@ Email: <zhiye.zjy@gmail.com>
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
-<p style="text-align:left;">
-    University of Washington, Seattle, WA
-    <span style="float:right;">
-        June 2022
-    </span>
-
+**University of Washington, Seattle, WA (June 2022)**
 <em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
-</p>
 
 #### INFO 430 Database Design and Management:
 *   Developed hands-on skills for relational and entity-relationship models, programmed SQL statements for querying and modifying data, designed three-tier architectures, and utilized ACID properties.
@@ -32,12 +26,7 @@ Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https:/
 
 
 ## Work Experience
-<p style="text-align:left;">
-    <b>Kim Bowl Restaurant & Lounge</b>
-    <span style="float:right;">
-        <b>(2012 - 2016)</b>
-    </span>
-</p>
+**Kim Bowl Restaurant & Lounge (2012 - 2016)**
 *	Conducted demographic research to help create a new menu for my family’s Chinese restaurant to suit the palate of the ethnic composition in Longview, WA.
 *	My day-to-day tasks includes sitting customers, taking orders, bussing, cash registering, and providing exceptional customer service to ensure my customers have an enjoyable dining experience.
 
@@ -60,4 +49,3 @@ Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https:/
 *   **Technical:** Miro, Figma, InVision, Whimsical, Atom, ArcGIS, QGIS, ArcMap, Microsoft Office
 *   **Awards:** Dean’s List, University of Washington: Autumn 2019 - Spring 2021
 *   **Interests:** Basketball, Cooking, Hiking, Weightlifting, Running, Sneakers, Tea/Boba, Coffee
-
