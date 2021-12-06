@@ -7,25 +7,26 @@ Email: <zjy@uw.edu>
 Links: [Github](https://github.com/zzhiye/zzhiye.github.io) & [LinkedIN](https://www.linkedin.com/in/zhi-ye-48b457165/)
 
 ## Education
-![UW Seal](assets/img/uwseal.png)
-
-University of Washington (Seattle), Department of Geography & Information School
-
-B.A. in Geography: Data Science & B.S. in Informatics
+**University of Washington**, Seattle, WA                   						
+<em>Bachelor of Science in Informatics: Data Science & Bachelor of Arts in Geography: Data Science</em>
 
 Graduation Date: June 2022
 
-#### GEOG 258 Digital Geographies:
-* Developed hands-on skills for digital mapping and data management; integrated diverse visual, textual and quantitative data; and critically assessed the societal implications of new spatial technologies.
-*	Explored how digital technologies produce social and spatial relationships, geographic knowledge, inequality and empowerment, inclusion, exclusion, and dispossession.
 
-#### GEOG 360 GIS and Mapping:
-*	Gained knowledge and experience on current options in geospatial technologies, using online mapping platforms such as ESRI ArcGIS Online, and using desktop mapping platforms such as ESRI ArcMap.
-*	Developed a conceptual understanding of cartographic, mapping, and ethical principles; utilized geovisualization and geospatial analysis techniques to make arguments and tell stories with maps.
+#### INFO 430 Database Design and Management:
+*   Developed hands-on skills for relational and entity-relationship models, programmed SQL statements for querying and modifying data, designed three-tier architectures, and utilized ACID properties.
+*   Designed databases with snowflake/star schema with X tables and Y views.
+*   Wrote DML and DDL statements with indexing, table compression and permissions model to build a secure, scalable and reliable database.
 
-#### INFO 370 Data Science Methods:
-*	Analyzed the ecosystem of data science, the data science process, and ethical issues within the field.
-*	Utilized python for data science tasks such as cleaning and reshaping medium-sized datasets, processing non-numeri data, and interpreting simple analysis/machine learning methods including regressions and nearest neighbors’ methods.
+#### INFO 371 Advanced Methods in Data Science:
+*	Utilized python to clean and reshape medium-sized datasets, conducted exploratory analysis for feature selection, and selected X features with high correlation to target variable based on p-values.
+*	Performed feature engineering, evaluated features, and developed an NN model with X% accuracy/X% coherence score.
+*   Built regression models that explained X% variance of the data with Y features.
+
+#### CSE 163: Intermediate Data Programming
+*	Built a search engine using the TF-IDF algorithm to compute relevancy of a document to a given term.
+*   Processed CSV’s and datasets to perform analysis using Python, Pandas, Geopandas, and Matplotlib.
+
 
 ## Work Experience
 
@@ -36,16 +37,22 @@ Graduation Date: June 2022
 
 ## Projects
 
-#### Coffee Culture in Seattle
-*	Utilizing ESRI’s ArcGIS, I created a story map journal that narrates the Coffee Culture in Seattle. The purpose of the story map is to provide insight about Seattle’s coffee culture and the welcoming community that puts great effort in producing the highest quality of coffee and customer experience.
-
-#### Mapping Breast Cancer Mortality in the US
-*	Using ArcMap, I mapped breast cancer mortality rates and mortality rate ratio between ethnic groups in the US. Afterwards, I performed a hot spot analysis to map where the mortality rates are highest.
+#### Healthcare Database
+*	Led a team of 4 to design and develop a Healthcare Database that allows users to store and query information regarding the hospital, staff, appointments, etc. Wrote DDL and DML statements to build and test with synthetic transactions (hundreds of thousands) to ensure the capabilities of the database.
 
 #### Wisconsin Breast Cancer Classification
-*	Working with the Wisconsin Breast Cancer Dataset, I created a summary table to showcase statistics for each variable in the dataset. Subsequently, I analyzed numerous logistic regression models and its accuracy and F-score to determine the diagnosis based on the data is either malignant or benign.
+*	Analyzed and cleaned the Wisconsin Breast Cancer Dataset. Extracted specific variables such as diagnosis, concpoints.mean, fracdim.mean, etc. to analyze numerous logistic regression models.
+*   Computed accuracy and F-score on models to predict whether the diagnosis is malignant or benign.
+
+#### Predicting Adult Income That Will Exceed $50,000 per Year
+*   Performed data cleaning and supervised machine learning via decision tree and nearest neighbor.
+*   Computed statistics of adults with income greater than $50,000, income inequality across gender for varying occupations, income of adults for varying education, and created visualizations using plotly.
+*   Integrated testing throughout the project to ensure functions were outputting correct values and results. 
+
 
 ## Skills, Interests, & Awards
-*	**Technical skills:** R, Python, SQL, Java, Tableau, Microsoft Power BI, Word, PowerPoint, Excel, Atom, Figma, InVision, Miro, FileZilla, Google MyMaps, ESRI StoryMaps, QGIS, ArcGIS, CartoDB
-*	**Interests:** Sports, Cooking, Traveling, Hiking, Music
-*	**Awards**: Dean’s List, University of Washington, 2019 - 2020
+*	**Languages:** SQL, R, Python, Tableau, Microsoft Power BI, Java, HTML, CSS
+*   **Technical:** Miro, Figma, InVision, Whimsical, Atom, ArcGIS, QGIS, ArcMap, Microsoft Office
+*   **Awards:** Dean’s List, University of Washington: Autumn 2019 - Spring 2021
+*   **Interests:** Basketball, Cooking, Hiking, Weightlifting, Running, Sneakers, Tea/Boba, Coffee
+
