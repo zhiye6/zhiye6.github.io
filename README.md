@@ -1,1 +1,1 @@
-### You can view my porfolio [here](https://zhiye6.github.io/w)
+### You can view my porfolio at [zhiye6.github.io](https://zhiye6.github.io/)
